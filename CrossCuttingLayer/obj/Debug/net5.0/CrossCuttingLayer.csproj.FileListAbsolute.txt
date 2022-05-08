@@ -1,0 +1,12 @@
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\bin\Debug\net5.0\CrossCuttingLayer.deps.json
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\bin\Debug\net5.0\CrossCuttingLayer.dll
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\bin\Debug\net5.0\ref\CrossCuttingLayer.dll
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\bin\Debug\net5.0\CrossCuttingLayer.pdb
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.AssemblyInfoInputs.cache
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.AssemblyInfo.cs
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.csproj.CoreCompileInputs.cache
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.dll
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\ref\CrossCuttingLayer.dll
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.pdb
+E:\CAN\repos-D\MassTransitRabbitMq\CrossCuttingLayer\obj\Debug\net5.0\CrossCuttingLayer.csproj.AssemblyReference.cache
